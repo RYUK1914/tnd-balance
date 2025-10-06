@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .App {
+    min-height: 100vh;
+  }
+  
+  .category-tab {
+    cursor: pointer;
+  }
+  
+  .expense-item {
+    border-left: 4px solid #007bff;
+  }
+  
+  .free-money {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+  }
